@@ -1,1 +1,1 @@
-# codewar_challenges
+# Solutions to codewars.com.
